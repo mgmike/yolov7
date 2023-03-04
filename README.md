@@ -135,6 +135,10 @@ On video:
 python detect.py --weights yolov7.pt --conf 0.25 --img-size 640 --source yourvideo.mp4
 ```
 
+``` shell
+python detect.py --weights yolov7.pt --conf 0.25 --img-size 640 --source /media/mike/Storage/Documents/supercarclass/new_cars/train/McLaren\ 765LT/08975.jpg
+```
+
 On image:
 ``` shell
 python detect.py --weights yolov7.pt --conf 0.25 --img-size 640 --source inference/images/horses.jpg

@@ -100,7 +100,7 @@ In the log you should see:
 
 ## Performance with Model Analyzer
 
-See [Triton Model Analyzer Documentation](https://github.com/triton-inference-server/server/blob/main/docs/model_analyzer.md#model-analyzer) for more info.
+See [Triton Model Analyzer Documentation](https://github.com/triton-inference-server/server/blob/main/docs/user_guide/model_analyzer.md#model-analyzer) for more info.
 
 Performance numbers @ RTX 3090 + AMD Ryzen 9 5950X
 
